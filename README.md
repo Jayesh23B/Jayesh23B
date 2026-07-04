@@ -1,121 +1,216 @@
 <h1 align="center">Hi 👋, I'm Jayesh Bacchav</h1>
 
-<h3 align="center">Data Analyst | AI & Data Science Graduate | SQL • Python • Power BI • Excel</h3>
+<p align="center">
+  <b>Data Analyst • AI & Data Science Graduate • SQL • Python • Power BI • Excel</b>
+</p>
+
+<p align="center">
+Passionate about transforming data into meaningful insights through analytics, visualization, and practical problem-solving.
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-🎓 B.E. in Artificial Intelligence & Data Science (2025)
+I'm a 2025 graduate in Artificial Intelligence & Data Science with a strong interest in Data Analytics and Business Intelligence.
 
-📊 Passionate about Data Analytics, Business Intelligence, SQL, and Python.
+I enjoy working on real-world projects that involve SQL, Python, Power BI, and Excel to solve business problems, uncover insights, and build data-driven solutions. Alongside analytics, I'm currently expanding my knowledge in Data Engineering and cloud technologies.
 
-📈 I enjoy solving real-world business problems using data-driven solutions and building interactive dashboards.
-
-🌱 Currently learning Data Engineering, Apache Airflow, and AWS.
-
-📍 Pune, Maharashtra, India
+- 🎓 B.E. in Artificial Intelligence & Data Science (2025)
+- 📍 Pune, Maharashtra, India
+- 💼 Open to opportunities in **Data Analytics**, **Business Intelligence**, and **Data Engineering**
+- 🌱 Currently learning **Advanced SQL, Apache Airflow, AWS, and Data Engineering**
 
 ---
 
-## 🛠️ Technical Skills
+# 💻 Technical Skills
 
-### Languages
-
+### Programming & Query Languages
 - SQL
 - Python
 
 ### Data Analytics
-
 - Power BI
-- Excel
+- Microsoft Excel
 - Pandas
 - NumPy
 
-### Database
-
+### Databases
 - SQL Server
 - MySQL
 
 ### Tools
-
 - Git
 - GitHub
 - VS Code
 - Jupyter Notebook
 
-### Concepts
-
+### Core Concepts
 - Data Cleaning
 - ETL
+- Data Visualization
 - Dashboard Development
 - Business Analytics
-- Data Visualization
 
 ---
 
-## 📂 Featured Projects
+# 🚀 Featured Projects
 
-### 📊 Power BI Customer Profitability Dashboard
+## 📊 Power BI Projects
 
-Interactive dashboard analyzing revenue, profit, customer segmentation, KPIs, and executive insights.
+A collection of interactive dashboards built to analyze customer profitability, business performance, and executive KPIs.
 
----
+**Highlights**
 
-### 🗄️ HR Database SQL Project
+- Executive Dashboard
+- Customer Profitability Analysis
+- KPI Tracking
+- DAX Measures
+- Interactive Visualizations
 
-Designed a relational HR database with advanced SQL queries including joins, CTEs, window functions, ranking, and employee analytics.
+**Tech Stack**
 
----
+Power BI • DAX • Excel
 
-### 🚚 Supply Chain SQL Project
-
-Business-focused SQL project analyzing sales, inventory, suppliers, forecasting, and warehouse performance.
-
----
-
-### 💰 Financial Analysis Excel Project
-
-Financial modeling using Excel with Pivot Tables, XIRR, IRR, MIRR, NPV, and PV functions.
+🔗 https://github.com/Jayesh23B/PowerBI-projects
 
 ---
 
-### 🤖 Payment Intelligence System
+## 🗄️ HR Database SQL Project
 
-AI-powered financial assistant that dynamically decides between SQL retrieval and machine learning prediction using natural language queries.
+Designed and developed a relational HR database while solving practical business scenarios using advanced SQL queries.
+
+**Highlights**
+
+- Complex Joins
+- Common Table Expressions (CTEs)
+- Window Functions
+- Ranking Functions
+- Employee Performance Analysis
+
+**Tech Stack**
+
+SQL Server • T-SQL
+
+🔗 https://github.com/Jayesh23B/HR-Database-SQL-Project
 
 ---
 
-### 📄 RAG Financial Document System
+## 🚚 Supply Chain SQL Project
 
-Retrieval-Augmented Generation application using FastAPI, FAISS, and semantic search for financial documents.
+Built SQL solutions to analyze inventory, suppliers, warehouses, sales trends, and operational performance.
+
+**Highlights**
+
+- Inventory Analysis
+- Sales Performance
+- Supplier Analytics
+- Warehouse Insights
+
+**Tech Stack**
+
+SQL Server • T-SQL
+
+🔗 https://github.com/Jayesh23B/Supply-Chain-SQL-project
 
 ---
 
-## 📚 Currently Learning
+## 💰 Financial Analysis Excel Project
 
-- Advanced SQL
+Performed financial analysis using Excel functions and business reporting techniques.
+
+**Highlights**
+
+- Pivot Tables
+- Charts
+- IRR
+- XIRR
+- MIRR
+- NPV
+- PV
+
+**Tech Stack**
+
+Microsoft Excel
+
+🔗 https://github.com/Jayesh23B/Financial-Analysis-Excel-Project
+
+---
+
+## 🤖 Payment Intelligence System
+
+An AI-powered financial assistant capable of understanding user queries and intelligently choosing between SQL retrieval and machine learning prediction.
+
+**Highlights**
+
+- Natural Language Queries
+- Machine Learning Predictions
+- SQL Integration
+- Financial Insights
+
+**Tech Stack**
+
+Python • SQL • Machine Learning
+
+🔗 https://github.com/Jayesh23B/Payment-Intelligence-System
+
+---
+
+## 📄 RAG Financial Document System
+
+Developed a Retrieval-Augmented Generation (RAG) application that enables semantic search across financial documents.
+
+**Highlights**
+
+- Document Search
+- Semantic Retrieval
+- FastAPI Backend
+- Vector Search using FAISS
+
+**Tech Stack**
+
+Python • FastAPI • FAISS
+
+🔗 https://github.com/Jayesh23B/rag-financial-doc-system
+
+---
+
+# 📚 Currently Learning
+
+- Advanced SQL Optimization
+- Data Engineering
 - Apache Airflow
 - AWS Cloud
-- Data Engineering
-- Machine Learning
+- End-to-End Data Pipelines
 
 ---
 
-## 📈 GitHub Stats
+# 📈 GitHub
 
-> GitHub automatically displays contribution activity below this profile.
-
----
-
-## 📫 Connect With Me
-
-📧 Email: jayeshbacchav9@gmail.com
-
-💼 LinkedIn: https://www.linkedin.com/in/jayeshbacchav9
-
-🌐 GitHub: https://github.com/Jayesh23B
+I use GitHub to document projects, explore new technologies, and continuously improve my problem-solving skills by building practical, business-oriented solutions.
 
 ---
 
-⭐ Thank you for visiting my profile!
+# 🤝 Let's Connect
+
+📧 **Email**
+
+jayeshbacchav9@gmail.com
+
+💼 **LinkedIn**
+
+https://www.linkedin.com/in/jayeshbacchav9
+
+🌐 **Portfolio**
+
+https://jayesh-portfolio-sandy.vercel.app
+
+🐙 **GitHub**
+
+https://github.com/Jayesh23B
+
+---
+
+## Thanks for visiting!
+
+I believe the best way to learn is by building real projects and continuously improving them. Feel free to explore my repositories, and if you'd like to connect or collaborate, I'd be happy to hear from you.
