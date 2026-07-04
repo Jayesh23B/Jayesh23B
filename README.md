@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Jayesh Bacchav</h1>
+<p align="center">
+  <img src="banner.png" alt="Jayesh Bacchav Banner" width="100%">
+</p>
+
+<h2 align="center">Hi 👋, I'm Jayesh Bacchav</h2>
 
 <p align="center">
 <b>Data Analyst | AI & Data Science Graduate</b>
@@ -10,19 +14,21 @@ SQL • Python • Power BI • Excel
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
-I'm an AI & Data Science graduate with a strong interest in data analytics and business intelligence.
+I'm an Artificial Intelligence & Data Science graduate with a strong interest in **Data Analytics**, **Business Intelligence**, and **Data Engineering**.
 
-I enjoy working on real-world projects that involve SQL, Python, Power BI, and Excel to solve business problems, uncover insights, and build data-driven solutions. Alongside analytics, I'm currently learning Data Engineering to strengthen my understanding of modern data pipelines and cloud technologies.
+I enjoy solving business problems using data and building practical projects with SQL, Python, Power BI, and Excel. My focus is on creating solutions that are easy to understand, useful for decision-making, and backed by real data.
 
-- 🎓 B.E. in Artificial Intelligence & Data Science (2025)
-- 📍 Pune, Maharashtra, India
-- 💼 Open to Data Analyst, Business Analyst, and Junior Data Engineer opportunities
+Currently, I'm expanding my knowledge of modern data engineering tools while continuing to improve my analytics and problem-solving skills.
+
+- 🎓 **B.E. in Artificial Intelligence & Data Science (2025)**
+- 📍 **Pune, Maharashtra, India**
+- 💼 **Open to Data Analyst, Business Analyst, and Junior Data Engineer opportunities**
 
 ---
 
-## Tech Stack
+## 💻 Tech Stack
 
 ### Languages
 - SQL
@@ -47,126 +53,106 @@ I enjoy working on real-world projects that involve SQL, Python, Power BI, and E
 ### Concepts
 - Data Cleaning
 - ETL
-- Dashboard Development
 - Data Visualization
+- Dashboard Development
 - Business Analytics
 
 ---
 
-# Featured Projects
+## 🚀 Featured Projects
 
 ### 📊 Power BI Projects
+Interactive dashboards built to analyze customer profitability, sales performance, and executive KPIs.
 
-Interactive dashboards designed to analyze customer profitability, business performance, and executive KPIs using Power BI.
+**Tech:** Power BI • DAX • Excel
 
-**Tech Used**
-
-Power BI • DAX • Excel
-
-🔗 https://github.com/Jayesh23B/PowerBI-projects
+🔗 Repository:  
+https://github.com/Jayesh23B/PowerBI-projects
 
 ---
 
-### 🗄 HR Database SQL Project
+### 🗄️ HR Database SQL Project
+Designed a relational HR database and solved real business scenarios using joins, CTEs, window functions, and ranking functions.
 
-A relational HR database project focused on solving practical business scenarios using advanced SQL concepts.
+**Tech:** SQL Server • T-SQL
 
-**Highlights**
-
-- Joins
-- CTEs
-- Window Functions
-- Ranking Functions
-- Employee Analytics
-
-**Tech Used**
-
-SQL Server • SQL
-
-🔗 https://github.com/Jayesh23B/HR-Database-SQL-Project
+🔗 Repository:  
+https://github.com/Jayesh23B/HR-Database-SQL-Project
 
 ---
 
 ### 🚚 Supply Chain SQL Project
+SQL-based analysis of inventory, warehouse operations, suppliers, and sales trends.
 
-SQL-based business analysis project covering inventory, suppliers, warehouse operations, and sales insights.
+**Tech:** SQL Server • T-SQL
 
-**Tech Used**
-
-SQL Server • SQL
-
-🔗 https://github.com/Jayesh23B/Supply-Chain-SQL-project
+🔗 Repository:  
+https://github.com/Jayesh23B/Supply-Chain-SQL-project
 
 ---
 
 ### 💰 Financial Analysis Excel Project
+Performed financial analysis using Pivot Tables, charts, and functions including IRR, XIRR, MIRR, NPV, and PV.
 
-Financial analysis using Excel with Pivot Tables, charts, and financial functions including IRR, XIRR, MIRR, NPV, and PV.
+**Tech:** Microsoft Excel
 
-**Tech Used**
-
-Microsoft Excel
-
-🔗 https://github.com/Jayesh23B/Financial-Analysis-Excel-Project
+🔗 Repository:  
+https://github.com/Jayesh23B/Financial-Analysis-Excel-Project
 
 ---
 
 ### 🤖 Payment Intelligence System
+An AI-powered financial assistant capable of intelligently selecting SQL retrieval or machine learning prediction based on user queries.
 
-An AI-powered financial assistant capable of understanding user requests and intelligently deciding between SQL retrieval and machine learning prediction.
+**Tech:** Python • SQL • Machine Learning
 
-**Tech Used**
-
-Python • Machine Learning • SQL
-
-🔗 https://github.com/Jayesh23B/Payment-Intelligence-System
+🔗 Repository:  
+https://github.com/Jayesh23B/Payment-Intelligence-System
 
 ---
 
 ### 📄 RAG Financial Document System
+A Retrieval-Augmented Generation application that performs semantic search across financial documents using FastAPI and FAISS.
 
-Retrieval-Augmented Generation application for semantic search across financial documents using FastAPI and FAISS.
+**Tech:** Python • FastAPI • FAISS
 
-**Tech Used**
-
-Python • FastAPI • FAISS
-
-🔗 https://github.com/Jayesh23B/rag-financial-doc-system
+🔗 Repository:  
+https://github.com/Jayesh23B/rag-financial-doc-system
 
 ---
 
-## Currently Learning
+## 🌱 Currently Learning
 
 - Advanced SQL
-- Apache Airflow
 - Data Engineering
+- Apache Airflow
 - AWS Cloud
 
 ---
 
-## GitHub
+## 📈 GitHub
 
-I use GitHub to document projects, practice new concepts, and continuously improve my technical skills by building practical solutions.
+I use GitHub to document projects, practice new technologies, and continuously improve my technical skills by building practical, business-oriented solutions.
 
 ---
 
-## Let's Connect
+## 🤝 Let's Connect
 
-📧 **Email**
-
+📧 **Email**  
 **jayeshbacchav9@gmail.com**
 
-💼 **LinkedIn**
-
+💼 **LinkedIn**  
 **https://www.linkedin.com/in/jayeshbacchav9**
 
-🌐 **Portfolio**
-
+🌐 **Portfolio**  
 **https://jayesh-portfolio-sandy.vercel.app**
+
+🐙 **GitHub**  
+**https://github.com/Jayesh23B**
 
 ---
 
 <p align="center">
-Thanks for visiting my profile! <br>
-I'm always interested in learning new technologies, building meaningful projects, and connecting with people in the data community.
+Thanks for visiting my profile! ⭐ <br>
+I'm always open to learning, collaborating, and building impactful data-driven solutions.
 </p>
