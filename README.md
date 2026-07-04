@@ -1,35 +1,34 @@
 <h1 align="center">Hi 👋, I'm Jayesh Bacchav</h1>
 
 <p align="center">
-  <b>Data Analyst • AI & Data Science Graduate • SQL • Python • Power BI • Excel</b>
+<b>Data Analyst | AI & Data Science Graduate</b>
 </p>
 
 <p align="center">
-Passionate about transforming data into meaningful insights through analytics, visualization, and practical problem-solving.
+SQL • Python • Power BI • Excel
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-I'm a 2025 graduate in Artificial Intelligence & Data Science with a strong interest in Data Analytics and Business Intelligence.
+I'm an AI & Data Science graduate with a strong interest in data analytics and business intelligence.
 
-I enjoy working on real-world projects that involve SQL, Python, Power BI, and Excel to solve business problems, uncover insights, and build data-driven solutions. Alongside analytics, I'm currently expanding my knowledge in Data Engineering and cloud technologies.
+I enjoy working on real-world projects that involve SQL, Python, Power BI, and Excel to solve business problems, uncover insights, and build data-driven solutions. Alongside analytics, I'm currently learning Data Engineering to strengthen my understanding of modern data pipelines and cloud technologies.
 
 - 🎓 B.E. in Artificial Intelligence & Data Science (2025)
 - 📍 Pune, Maharashtra, India
-- 💼 Open to opportunities in **Data Analytics**, **Business Intelligence**, and **Data Engineering**
-- 🌱 Currently learning **Advanced SQL, Apache Airflow, AWS, and Data Engineering**
+- 💼 Open to Data Analyst, Business Analyst, and Junior Data Engineer opportunities
 
 ---
 
-# 💻 Technical Skills
+## Tech Stack
 
-### Programming & Query Languages
+### Languages
 - SQL
 - Python
 
-### Data Analytics
+### Analytics & Visualization
 - Power BI
 - Microsoft Excel
 - Pandas
@@ -45,30 +44,22 @@ I enjoy working on real-world projects that involve SQL, Python, Power BI, and E
 - VS Code
 - Jupyter Notebook
 
-### Core Concepts
+### Concepts
 - Data Cleaning
 - ETL
-- Data Visualization
 - Dashboard Development
+- Data Visualization
 - Business Analytics
 
 ---
 
-# 🚀 Featured Projects
+# Featured Projects
 
-## 📊 Power BI Projects
+### 📊 Power BI Projects
 
-A collection of interactive dashboards built to analyze customer profitability, business performance, and executive KPIs.
+Interactive dashboards designed to analyze customer profitability, business performance, and executive KPIs using Power BI.
 
-**Highlights**
-
-- Executive Dashboard
-- Customer Profitability Analysis
-- KPI Tracking
-- DAX Measures
-- Interactive Visualizations
-
-**Tech Stack**
+**Tech Used**
 
 Power BI • DAX • Excel
 
@@ -76,60 +67,43 @@ Power BI • DAX • Excel
 
 ---
 
-## 🗄️ HR Database SQL Project
+### 🗄 HR Database SQL Project
 
-Designed and developed a relational HR database while solving practical business scenarios using advanced SQL queries.
+A relational HR database project focused on solving practical business scenarios using advanced SQL concepts.
 
 **Highlights**
 
-- Complex Joins
-- Common Table Expressions (CTEs)
+- Joins
+- CTEs
 - Window Functions
 - Ranking Functions
-- Employee Performance Analysis
+- Employee Analytics
 
-**Tech Stack**
+**Tech Used**
 
-SQL Server • T-SQL
+SQL Server • SQL
 
 🔗 https://github.com/Jayesh23B/HR-Database-SQL-Project
 
 ---
 
-## 🚚 Supply Chain SQL Project
+### 🚚 Supply Chain SQL Project
 
-Built SQL solutions to analyze inventory, suppliers, warehouses, sales trends, and operational performance.
+SQL-based business analysis project covering inventory, suppliers, warehouse operations, and sales insights.
 
-**Highlights**
+**Tech Used**
 
-- Inventory Analysis
-- Sales Performance
-- Supplier Analytics
-- Warehouse Insights
-
-**Tech Stack**
-
-SQL Server • T-SQL
+SQL Server • SQL
 
 🔗 https://github.com/Jayesh23B/Supply-Chain-SQL-project
 
 ---
 
-## 💰 Financial Analysis Excel Project
+### 💰 Financial Analysis Excel Project
 
-Performed financial analysis using Excel functions and business reporting techniques.
+Financial analysis using Excel with Pivot Tables, charts, and financial functions including IRR, XIRR, MIRR, NPV, and PV.
 
-**Highlights**
-
-- Pivot Tables
-- Charts
-- IRR
-- XIRR
-- MIRR
-- NPV
-- PV
-
-**Tech Stack**
+**Tech Used**
 
 Microsoft Excel
 
@@ -137,37 +111,23 @@ Microsoft Excel
 
 ---
 
-## 🤖 Payment Intelligence System
+### 🤖 Payment Intelligence System
 
-An AI-powered financial assistant capable of understanding user queries and intelligently choosing between SQL retrieval and machine learning prediction.
+An AI-powered financial assistant capable of understanding user requests and intelligently deciding between SQL retrieval and machine learning prediction.
 
-**Highlights**
+**Tech Used**
 
-- Natural Language Queries
-- Machine Learning Predictions
-- SQL Integration
-- Financial Insights
-
-**Tech Stack**
-
-Python • SQL • Machine Learning
+Python • Machine Learning • SQL
 
 🔗 https://github.com/Jayesh23B/Payment-Intelligence-System
 
 ---
 
-## 📄 RAG Financial Document System
+### 📄 RAG Financial Document System
 
-Developed a Retrieval-Augmented Generation (RAG) application that enables semantic search across financial documents.
+Retrieval-Augmented Generation application for semantic search across financial documents using FastAPI and FAISS.
 
-**Highlights**
-
-- Document Search
-- Semantic Retrieval
-- FastAPI Backend
-- Vector Search using FAISS
-
-**Tech Stack**
+**Tech Used**
 
 Python • FastAPI • FAISS
 
@@ -175,42 +135,38 @@ Python • FastAPI • FAISS
 
 ---
 
-# 📚 Currently Learning
+## Currently Learning
 
-- Advanced SQL Optimization
-- Data Engineering
+- Advanced SQL
 - Apache Airflow
+- Data Engineering
 - AWS Cloud
-- End-to-End Data Pipelines
 
 ---
 
-# 📈 GitHub
+## GitHub
 
-I use GitHub to document projects, explore new technologies, and continuously improve my problem-solving skills by building practical, business-oriented solutions.
+I use GitHub to document projects, practice new concepts, and continuously improve my technical skills by building practical solutions.
 
 ---
 
-# 🤝 Let's Connect
+## Let's Connect
 
 📧 **Email**
 
-jayeshbacchav9@gmail.com
+**jayeshbacchav9@gmail.com**
 
 💼 **LinkedIn**
 
-https://www.linkedin.com/in/jayeshbacchav9
+**https://www.linkedin.com/in/jayeshbacchav9**
 
 🌐 **Portfolio**
 
-https://jayesh-portfolio-sandy.vercel.app
-
-🐙 **GitHub**
-
-https://github.com/Jayesh23B
+**https://jayesh-portfolio-sandy.vercel.app**
 
 ---
 
-## Thanks for visiting!
-
-I believe the best way to learn is by building real projects and continuously improving them. Feel free to explore my repositories, and if you'd like to connect or collaborate, I'd be happy to hear from you.
+<p align="center">
+Thanks for visiting my profile! <br>
+I'm always interested in learning new technologies, building meaningful projects, and connecting with people in the data community.
+</p>
