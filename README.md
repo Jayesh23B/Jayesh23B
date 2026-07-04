@@ -110,9 +110,9 @@ Retrieval-Augmented Generation application using FastAPI, FAISS, and semantic se
 
 ## 📫 Connect With Me
 
-📧 Email: YOUR EMAIL
+📧 Email: jayeshbacchav9@gmail.com
 
-💼 LinkedIn: YOUR LINKEDIN
+💼 LinkedIn: https://www.linkedin.com/in/jayeshbacchav9
 
 🌐 GitHub: https://github.com/Jayesh23B
 
